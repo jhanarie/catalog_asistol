@@ -1,0 +1,121 @@
+[
+    {
+        "image" : "school_images/notebook.jpg",
+        "description" : " Notebooks",
+        "price" : 20
+    },
+
+    {
+        "image" : "school_images/pens.jpg",
+        "description" : " Different  Color Ballpens ",
+        "price" : 200
+    },
+
+    {
+        "image" : "school_images/pencil.jpg",
+        "description" : " Pink Pencils ",
+        "price" : 25
+    },
+
+    {
+        "image" : "school_images/highlighter.jpg",
+        "description" : " Pastel Highlighters ",
+        "price" : 150
+    },
+
+    {
+        "image" : "school_images/binders.jpg",
+        "description" : " Binders ",
+        "price" : 70
+    }, 
+
+    {
+        "image" : "school_images/backpack.jpg",
+        "description" : " Backpack ",
+        "price" : 1500
+    },
+
+    {
+        "image" : "school_images/folders.jpg",
+        "description" : " Clear Book Folders ",
+        "price" : 30
+    },
+
+    {
+        "image" : "school_images/notes.jpg",
+        "description" : "Sticky Notes ",
+        "price" : 20
+    },
+
+    {
+        "image" : "school_images/calculator.jpg",
+        "description" : "Calculator ",
+        "price" : 1600
+    },
+
+    {
+        "image" : "school_images/rulers.jpg",
+        "description" : "Ruler (set)",
+        "price" : 60
+    },
+
+    {
+        "image" : "school_images/eraser.jpg",
+        "description" : "Eraser ",
+        "price" : 50
+    },
+
+    {
+        "image" : "school_images/scissors.jpg",
+        "description" : "Scissors ",
+        "price" : 40
+    },
+
+    {
+        "image" : "school_images/bottles.jpg",
+        "description" : "Water Bottles ",
+        "price" : 150
+    },
+
+    {
+        "image" : "school_images/planner.jpg",
+        "description" : "Planners ",
+        "price" : 250
+    },
+
+    {
+        "image" : "school_images/food.jpg",
+        "description" : "Lunch Box",
+        "price" : 300
+    },
+
+    {
+        "image" : "school_images/stapler.jpg",
+        "description" : "Stapler",
+        "price" : 75
+    },
+
+    {
+        "image" : "school_images/tape.jpg",
+        "description" : "Correction Tape ",
+        "price" : 50
+    },
+
+    {
+        "image" : "school_images/case.jpg",
+        "description" : " Pencil Case",
+        "price" : 50
+    },
+
+    {
+        "image" : "school_images/organizers.jpg",
+        "description" : "Desk Organizers",
+        "price" : 80
+    },
+
+    {
+        "image" : "school_images/lamps.jpg",
+        "description" : "Desk Lamp ",
+        "price" : 500
+    }
+]
